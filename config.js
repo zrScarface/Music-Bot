@@ -1,8 +1,8 @@
 module.exports = {
     app: {
-        competing: 'by Scarface ❤️',
+        competing: 'Status here',
         global: true,
-        guild: '987801747315646534'
+        guild: 'guild id'
     },
 
     opt: {
